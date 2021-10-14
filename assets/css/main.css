@@ -1296,7 +1296,7 @@ input, select, textarea {
 		}
 
 	.text-row {
-		padding: 0 0 0.5em 0;
+		padding: 0.5em 0 0 0;
 		margin: 0 0 0 0;
 	}
 
@@ -1764,6 +1764,7 @@ input, select, textarea {
 		text-decoration: none;
 		position: relative;
 		text-decoration: none;
+		margin-bottom: 0.25em;
 	}
 
 		.icon:before {
