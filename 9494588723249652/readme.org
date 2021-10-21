@@ -1,0 +1,8 @@
+* About this problem
+** What is this supposed to be?
+The goal is to create an XSS vulnerability that when exploited in the correct way, produces the flag?
+** Is XSS the only way to solve it?
+No. Because this website is hosted by github.io, it has no server side code. This means all elements needed for the solution are on the users
+computer, which allows it to be solved in the browser debugger or by de-obfuscating the javascript. Hopefully it is still fun though!
+** What is the intended solution?
+<script>decrypt(document.getElementById("flag").innerHTML)</script>
