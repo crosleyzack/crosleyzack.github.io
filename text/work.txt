@@ -1,6 +1,0 @@
-I have a wide variety of academic and work interests, and have run the gamut of
-computer science subfields. I have a deep interest in computer security and the
-methods for protecting users data. I greatly enjoy the process of analyzing
-programs from an attackers view and finding creative solution to find and patch
-vulnerabilities. Ultimately my interest in Computer Science is a philosophical
-one of how to think through problems and answer tough questions.
