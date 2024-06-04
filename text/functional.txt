@@ -1,0 +1,10 @@
+Since learning functional programming, I employ its techniques with growing regularity as a useful
+methodology for solving data transformation driven problems. Clojure is the most functional programming
+language I have used, but I reguarly apply the functional programming features of languages like Python
+and Java to create simpler solutions. The navigation suite I developed for the Army is mostly functional,
+with a Graph object that merely manages basic state information and all other methods being written
+independent of the object. This has the extra benefit of enabling these methods to be repurposed by other
+developers, who have used the resulting library for various projects. As part of my functional paradigm
+exploration, I studied Okasaki's foundational paper Purely Functional Data Structures, and utilize his
+techniques regularly to improve my code (lazy evaluation, memoization, and immutability). Recently I
+have become interesting in the functional package manager Nix for system configuration and automation.

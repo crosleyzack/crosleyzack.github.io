@@ -1,0 +1,13 @@
+In graduate school, I worked with the <a href="https://sefcom.asu.edu/">Security Engineering for Future
+Computing (SEFCOM)</a> lab for my thesis and significant coursework. In classes led by SEFCOM faculty,
+I learned the techniques for binary, web, and  network security. This included techniques like Buffer
+Overflows, Format String exploits, Loop Overflows (Off-by-One exploits), Return Oriented Programming,
+Spoofing (ARP, IP, TCP), Cross Site Scripting, and SQL Injection. I also learned the use of binary
+reverse engineering tools like Ada. These techniques were employed with the Capture the Flag (CTF) team
+the pwndevils. Pwndevils was established by Shellphish alumni and worked closely with the team, frequently
+attending DEFCOM CTF events with them. My research project for my thesis was the application of inductive
+programming techniques to exploit generation, which enabled the learning of basic expoits from examples
+in a CTF environment. This research is ongoing and pending future publication. My current role with
+Censys involves development of the Attack Surface Management Risks platform, which enables users to 
+identify vulnerabilities in their internet facing devices. Using internet wide scan data, we identify
+possible vulnerabilities, and display them to the user via a web portal and APIs.
