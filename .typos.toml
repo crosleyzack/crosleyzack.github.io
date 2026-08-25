@@ -1,0 +1,4 @@
+[default]
+extend-ignore-identifiers-re = [
+    "(0x|0X)?[0-9a-fA-F]+",
+]
