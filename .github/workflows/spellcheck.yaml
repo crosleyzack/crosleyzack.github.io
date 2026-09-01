@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-slim
     steps:
       - uses: actions/checkout@v7
-      - uses: crate-ci/typos@v1.49.1
+      - uses: crate-ci/typos@v1.50.0
         with:
           config: ./.typos.toml
           files: "**/*.html"
