@@ -1,4 +1,4 @@
-[![Dependabot Updates](https://github.com/crosleyzack/crosleyzack.github.io/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/crosleyzack/crosleyzack.github.io/actions/workflows/dependabot/dependabot-updates)
+[![dependabot](https://github.com/crosleyzack/crosleyzack.github.io/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/crosleyzack/crosleyzack.github.io/actions/workflows/dependabot/dependabot-updates)
 
 Personal website code, hosted on github.io
 
